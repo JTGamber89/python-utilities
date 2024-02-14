@@ -1,2 +1,2 @@
 # python-utilities
-A collection of things that are just complex enough that I'd rather have them saved and close at hand whenever I need them.
+A collection of small python implementations that are just complex enough that having them on-hand to re-use when necessary is valuable.
